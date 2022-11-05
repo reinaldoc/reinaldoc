@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Java" src="https://img.shields.io/badge/Java-%233a75b0.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](#)  
 
-[<img align="left" alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
+[<img alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
 
 ### Some of my CMS expertise
 
