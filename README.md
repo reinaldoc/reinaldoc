@@ -15,7 +15,7 @@
 
 [<img align="left" alt="Drupal" src="https://img.shields.io/badge/Drupal-%23064771.svg?&style=for-the-badge&logo=drupal&logoColor=white" />](#)  
 
-[<img align="left" alt="Moodle" src="https://img.shields.io/badge/Moodle-%23F98012.svg?&style=for-the-badge&logo=moodle&logoColor=white" />](#)  
+[<img alt="Moodle" src="https://img.shields.io/badge/Moodle-%23F98012.svg?&style=for-the-badge&logo=moodle&logoColor=white" />](#)  
 
 ### Some of my DevOps expertise
 
