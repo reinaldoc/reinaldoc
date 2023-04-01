@@ -2,7 +2,7 @@
 
    I have Computer Science degree and have been working with...
 
-### My programming expertise
+### My programming experience
 [<img align="left" alt="Bash" src="https://img.shields.io/badge/Bash-%23A32D2A.svg?&style=for-the-badge&logo=shell&logoColor=white" />](#)  
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-%232b5b84.svg?&style=for-the-badge&logo=python&logoColor=white" />](#)  
@@ -11,13 +11,13 @@
 
 [<img alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
 
-### My CMS expertise
+### My CMS experience
 
 [<img align="left" alt="Drupal" src="https://img.shields.io/badge/Drupal-%23064771.svg?&style=for-the-badge&logo=drupal&logoColor=white" />](#)  
 
 [<img alt="Moodle" src="https://img.shields.io/badge/Moodle-%23F98012.svg?&style=for-the-badge&logo=moodle&logoColor=white" />](#)  
 
-### My DevOps expertise
+### My DevOps experience
 
 [<img align="left" alt="docker" src="https://img.shields.io/badge/docker%20-%2343853D.svg?&style=for-the-badge&logo=docker&logoColor=white" />](#)
 
