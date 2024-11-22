@@ -4,8 +4,8 @@
 
    and wrote two books:
 
-     - [Power BI Guide](https://amzn.to/4hTXx6m)
-     - [Drupal Guide](https://amzn.to/4hZ4dAd)
+   - [Power BI Guide](https://amzn.to/4hTXx6m)
+   - [Drupal Guide](https://amzn.to/4hZ4dAd)
 
    and have been working with...
 
@@ -16,9 +16,9 @@
 
 [<img align="left" alt="Java" src="https://img.shields.io/badge/Java-%233a75b0.svg?&style=for-the-badge&logo=javascript&logoColor=white" />](#)  
 
-[<img alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
+[<img align="left" alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
 
-[<img alt="m" src="https://img.shields.io/badge/M-%231DA1F2.svg?&style=for-the-badge&logo=m&logoColor=white" />](#)  
+[<img align="left" alt="m" src="https://img.shields.io/badge/M-%231DA1F2.svg?&style=for-the-badge&logo=m&logoColor=white" />](#)  
 
 [<img alt="DAX" src="https://img.shields.io/badge/DAX-%231DA1F2.svg?&style=for-the-badge&logo=dax&logoColor=white" />](#)  
 
@@ -38,7 +38,7 @@
 
 [<img align="left" alt="gcp" src="https://img.shields.io/badge/Google%20Cloud-gray?logo=googlecloud&logoColor=white&style=for-the-badge" />](#)
 
-[<img align="left" alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon&logoColor=white&style=for-the-badge" />](#)
+[<img alt="aws" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon&logoColor=white&style=for-the-badge" />](#)
 
 ### My Data Analytics experience
 
