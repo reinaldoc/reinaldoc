@@ -10,7 +10,7 @@
    and have been working with...
 
 ### My programming experience
-[<img align="left" alt="Bash" title="Bash: 24 years of experience" src="https://img.shields.io/badge/Bash-%23A32D2A.svg?&style=for-the-badge&logo=shell&logoColor=white" />](#)  
+[<img align="left" alt="Bash" src="https://img.shields.io/badge/Bash-%23A32D2A.svg?&style=for-the-badge&logo=shell&logoColor=white" />](#)  
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-%232b5b84.svg?&style=for-the-badge&logo=python&logoColor=white" />](#)  
 
