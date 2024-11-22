@@ -10,7 +10,7 @@
    and have been working with...
 
 ### My programming experience
-[<img align="left" alt="Bash" src="https://img.shields.io/badge/Bash-%23A32D2A.svg?&style=for-the-badge&logo=shell&logoColor=white" />](#)  
+[<img align="left" alt="Bash" title="Bash: 24 years of experience" src="https://img.shields.io/badge/Bash-%23A32D2A.svg?&style=for-the-badge&logo=shell&logoColor=white" />](#)  
 
 [<img align="left" alt="Python" src="https://img.shields.io/badge/Python-%232b5b84.svg?&style=for-the-badge&logo=python&logoColor=white" />](#)  
 
@@ -18,9 +18,9 @@
 
 [<img align="left" alt="go" src="https://img.shields.io/badge/go-%231DA1F2.svg?&style=for-the-badge&logo=go&logoColor=white" />](#)  
 
-[<img align="left" alt="m" src="https://img.shields.io/badge/M-%231DA1F2.svg?&style=for-the-badge&logo=m&logoColor=white" />](#)  
+[<img align="left" alt="m" src="https://img.shields.io/badge/M-%237D7172.svg?&style=for-the-badge&logo=m&logoColor=white" />](#)  
 
-[<img alt="DAX" src="https://img.shields.io/badge/DAX-%231DA1F2.svg?&style=for-the-badge&logo=dax&logoColor=white" />](#)  
+[<img alt="DAX" src="https://img.shields.io/badge/DAX-%2317A172.svg?&style=for-the-badge&logo=dax&logoColor=white" />](#)  
 
 ### My CMS experience
 
